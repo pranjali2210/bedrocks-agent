@@ -40,5 +40,3 @@ The agent handles natural language shopping requests — recommending products, 
 The agent persists cart data to a **DynamoDB table**. After the conversation above, the table reflects the added items:
 
 <img width="1522" height="767" alt="Image" src="https://github.com/user-attachments/assets/fcee70be-7b75-41ee-9b79-149fb9ba9fac" />
-
-![Cart Table](assets/cart-table.png)
