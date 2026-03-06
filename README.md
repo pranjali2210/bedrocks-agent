@@ -15,23 +15,7 @@ An AWS Bedrock-powered conversational shopping agent with personalized product r
 
 ## Agent Details
 
-The agent is configured on **AWS Bedrock Agent Builder** with the following settings:
-
-| Field | Value |
-|-------|-------|
-| **Name** | wallE |
-| **ID** | HQPETENMCE |
-| **Status** | ✅ PREPARED |
-| **Creation Date** | February 21, 2026, 14:08 (UTC+05:30) |
-| **Last Prepared** | March 06, 2026, 19:41 (UTC+05:30) |
-| **Agent ARN** | `arn:aws:bedrock:eu-north-1:542175649291:agent/HQPETENMCE` |
-| **Permissions** | `arn:aws:iam::542175649291:role/service-role/AmazonBedrockExecutionRoleForAgents_YBAGG1RHEZQ` |
-| **User Input** | ENABLED |
-| **Memory** | Disabled |
-| **Idle Session Timeout** | 600 seconds |
-| **KMS Key** | — |
-
-![Agent Overview](assets/agent-details.png)
+<img width="1034" height="766" alt="Image" src="https://github.com/user-attachments/assets/44eccf9c-0bc9-4430-8690-ea7da59335ab" />
 
 ---
 
